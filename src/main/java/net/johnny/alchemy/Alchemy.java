@@ -1,6 +1,7 @@
 package net.johnny.alchemy;
 
 import net.fabricmc.api.ModInitializer;
+import net.johnny.alchemy.block.ModBlocks;
 import net.johnny.alchemy.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -11,6 +12,8 @@ public class Alchemy implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+
         ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
 	}
 }

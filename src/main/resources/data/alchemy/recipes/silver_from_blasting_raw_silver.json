@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "almisc",
+  "ingredient": {
+    "item": "alchemy:raw_silver"
+  },
+  "result": "alchemy:silver_ingot"
+}

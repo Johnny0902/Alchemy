@@ -1,3 +1,11 @@
 {
-  "item.alchemy.silver_ingot": "Silver Ingot"
+  "item.alchemy.silver_ingot": "Silver Ingot",
+  "item.alchemy.raw_silver": "Raw Silver",
+
+  "block.alchemy.silver_block": "Block of Silver",
+  "block.alchemy.silver_ore": "Silver Ore",
+  "block.alchemy.deepslate_silver_ore": "Deepslate Silver Ore",
+
+
+  "itemGroup.alchemy.almisc": "Alchemy Miscellaneous"
 }
