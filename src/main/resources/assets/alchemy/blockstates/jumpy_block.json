@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "alchemy:block/jumpy_block" }
+  }
+}
